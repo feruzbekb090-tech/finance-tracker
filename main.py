@@ -40,4 +40,5 @@ def main():
             continue
         action()
 
-    main()
+
+main()
